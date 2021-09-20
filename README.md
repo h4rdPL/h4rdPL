@@ -22,13 +22,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean finibus condimen
 <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"   width="35" height="35">
 <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  width="30" height="28">
 <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"   width="35" height="35">
-
+<div />
 <h4> Software: </h4>
 <div>
 <img align="left" src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/photoshop.png" width="28" height="28">
-    <img align="left" src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/github.svg"   width="25" height="25">
+  <img align="left" src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/github.svg"   width="25" height="25">
 <img align="left" src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/adobexd.png"  width="28" height="28">
 </div>
+  </br>
+  <div align="left">
+    <h4> Languages: <h4/>
+      <div align="left">
+        <h2>🇩🇪  🇬🇧  🇪🇸 </h2>
+      </div>
+  </div>
+  
 
    
 </br>
