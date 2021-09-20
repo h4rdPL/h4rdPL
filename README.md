@@ -35,7 +35,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean finibus condimen
   <div align="left">
     <h4> Languages: <h4/>
       <div align="left">
-        <h2>🇩🇪  🇬🇧  🇪🇸 </h2>
+        <h2>🇵🇱 🇩🇪  🇬🇧  🇪🇸 </h2>
       </div>
   </div>
   
