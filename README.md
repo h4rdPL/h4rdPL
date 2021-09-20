@@ -1,4 +1,4 @@
-<h3>Hi, I'm Matthew! <img align="right" src="https://media2.giphy.com/media/NKEt9elQ5cR68/giphy.gif?cid=ecf05e47iqahddnh6htrd83b2hd7wqpe7bwvmgpgqplhhfst&rid=giphy.gif&ct=g" width="300" > </h3>
+<h3>Hi, I'm Matthew! <img align="right" src="https://media3.giphy.com/media/11fHSR7hmRLbkA/giphy.gif?cid=ecf05e47qyxcrlr2vox8w6v19uc3w4e6l0wmf8srflw7b3p6&rid=giphy.gif&ct=g" width="300" > </h3>
 
 <p> Here you can check my social media! </p>
 <div style="display:flex; align-items:center;">
