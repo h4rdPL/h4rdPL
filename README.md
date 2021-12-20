@@ -1,4 +1,4 @@
-<h3>Hi, I'm Matthew! <img align="right" src="https://media3.giphy.com/media/11fHSR7hmRLbkA/giphy.gif?cid=ecf05e47qyxcrlr2vox8w6v19uc3w4e6l0wmf8srflw7b3p6&rid=giphy.gif&ct=g" width="300" > </h3>
+<h3>Hello world, I'm Matthew! <img align="right" src="https://media3.giphy.com/media/11fHSR7hmRLbkA/giphy.gif?cid=ecf05e47qyxcrlr2vox8w6v19uc3w4e6l0wmf8srflw7b3p6&rid=giphy.gif&ct=g" width="300" > </h3>
 
 <p> Here you can check my social media! </p>
 <div style="display:flex; align-items:center;">
@@ -16,8 +16,8 @@
 </br>
 </br>
 <p align="justify">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean finibus condimentum interdum. Pellentesque ut tempus tortor. Nunc eget turpis et quam hendrerit facilisis quis a augue. Vestibulum iaculis pharetra pulvinar. Nullam sagittis, massa varius mattis aliquet, lacus metus dictum arcu, ac laoreet justo turpis vel nibh. Donec accumsan justo quam, eu pulvinar metus tempus vitae. Proin pellentesque orci et augue vehicula consequat. Duis faucibus massa sed ligula cursus consectetur. In commodo, nibh id imperdiet efficitur, massa eros interdum odio, sed sollicitudin ante sem vitae neque. Vivamus pulvinar elit quis est eleifend, at porttitor augue maximus. Donec nisl neque, imperdiet non mollis in, vehicula et velit. Phasellus tristique ac ligula ut condimentum. Praesent lorem sem, dignissim non lacinia sed, interdum tristique orci. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
-  </p>
+ My goal is to learn how to code with good practice, and still improving my skills with programming.
+</p>
 <h4> My skills: </h4>
 <div>
 <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  width="35" height="35">
