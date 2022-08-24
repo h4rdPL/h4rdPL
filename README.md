@@ -37,7 +37,16 @@
   <div align="left">
     <h4> Languages: <h4/>
       <div align="left">
-        <h2>🇵🇱 🇩🇪  🇬🇧  🇪🇸 </h2>
+        <div>
+        <p>Native</p>
+        <img style="width:32px;" src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" />
+        <p>communicative</p>
+        <img style="width:32px;" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png" />
+        <p>Basics</p>
+        <img style="width:32px;" src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" />
+        <p>Basics</p>
+        <img style="width:32px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/2560px-Flag_of_Spain.svg.png" />
+        </div>
       </div>
   </div>
   
