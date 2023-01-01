@@ -1,5 +1,4 @@
 <h3>Hello world, I'm Matthew! <img align="right" src="https://media3.giphy.com/media/11fHSR7hmRLbkA/giphy.gif?cid=ecf05e47qyxcrlr2vox8w6v19uc3w4e6l0wmf8srflw7b3p6&rid=giphy.gif&ct=g" width="300" > </h3>
-
 <p> Here you can check my social media! </p>
 <div style="display:flex; align-items:center;">
 <a href="https://discord.gg/">
@@ -47,7 +46,20 @@
         <img style="width:32px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/2560px-Flag_of_Spain.svg.png" />
         <p>Basics</p>
        </div>
+        <hr>
+        <div align="center">
+        <h4>
+          My stats
+        </h4>
+          <div>
+        <hr>
       </div>
+          <div >
+            <img src="https://streak-stats.demolab.com?user=h4rdPL&theme=dark&border_radius=4" style="margin-bottom: 30px;" alt="langugages-stats"/>
+  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=h4rdPL&show_icons=true&theme=dark"  style="margin-bottom: 30px;" alt="matthewStats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4rdPL&layout=compact&theme=dark" alt="languages stats" />
+          </div>
   </div>
   
 
@@ -55,4 +67,4 @@
 </br>
 </br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=h4rdPL&show_icons=true&theme=gotham" alt="matthewStats" />
+
