@@ -21,17 +21,21 @@
 <div>
 <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  width="35" height="35">
 <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"   width="35" height="35">
+<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"  width="35" height="35">
 <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  width="30" height="28">
 <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"   width="35" height="35">
-<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"  width="35" height="35">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" widt="35" height="35" />
 
 <div />
 <h4> Software: </h4>
 <div>
+<img align="left" src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/github.svg"   width="25" height="25">
 <img align="left" src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/photoshop.png" width="28" height="28">
-  <img align="left" src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/github.svg"   width="25" height="25">
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png"  width="28" height="28" />
 <img align="left" src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/adobexd.png"  width="28" height="28">
-</div>
+<img align="left" src="https://camo.githubusercontent.com/a86a8278da4c5b5a43330e1ea28e6ba050007a837128b5dff5b35d5ff0f1248a/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a365867664443566e3831415958363858766432492d674032782e706e67"  width="28" height="28" />
+  
+  </div>
   </br>
   <div align="left">
     <h4> Languages: <h4/>
