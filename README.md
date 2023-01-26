@@ -61,8 +61,10 @@
           <div >
             <img src="https://streak-stats.demolab.com?user=h4rdPL&theme=dark&border_radius=4" style="margin-bottom: 30px;" alt="langugages-stats"/>
   
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=h4rdPL&show_icons=true&theme=dark"  style="margin-bottom: 30px;" alt="matthewStats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4rdPL&layout=compact&theme=dark" alt="languages stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=h4rdPL&show_icons=true&theme=dark"  style="margin-bottom: 30px;" alt="matthewStats" />
+    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4rdPL&layout=compact&theme=dark" alt="languages stats" />
           </div>
   </div>
   
