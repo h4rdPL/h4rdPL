@@ -19,13 +19,13 @@
 </p>
 <h4> My skills: </h4>
 <div>
-<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  width="35" height="35">
-<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"   width="35" height="35">
-<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"  width="35" height="35">
-<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  width="30" height="28">
-<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"   width="35" height="35">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" widt="35" height="35" />
-
+<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  width="35" height="35" alt="html" />
+<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"   width="35" height="35" alt="css" />
+<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"  width="35" height="35" alt="sass" />
+<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  width="30" height="28" alt="javascript" />
+<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="35" height="35" alt="react" />
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="35" height="35" alt="typescript" />
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="35" height="35" alt="wordpress" />
 <div />
 <h4> Software: </h4>
 <div>
