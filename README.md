@@ -1,17 +1,6 @@
 <h3>Hello world, I'm Matthew! <img align="right" src="https://media3.giphy.com/media/11fHSR7hmRLbkA/giphy.gif?cid=ecf05e47qyxcrlr2vox8w6v19uc3w4e6l0wmf8srflw7b3p6&rid=giphy.gif&ct=g" width="300" > </h3>
 <p> Here you can check my social media! </p>
-<div style="display:flex; align-items:center;">
-<a href="https://discord.gg/">
-  <img align="left" alt="check dc!" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/">
-  <img align="left" alt="my Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/">
-  <img align="left" alt="my IN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
-</div>
 </br>
 </br>
 <p align="justify">
