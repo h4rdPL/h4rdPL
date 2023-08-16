@@ -4,7 +4,7 @@
 </br>
 </br>
 <p align="justify">
- My goal is to learn how to code with good practice, and still improving my skills with programming.
+ My goal is to learn how to code with good practice, and still improving my programming skills
 </p>
 <h4> My skills: </h4>
 <div>
