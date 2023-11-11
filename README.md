@@ -6,28 +6,29 @@
 <p align="justify">
  My goal is to learn how to code with good practice, and still improving my programming skills
 </p>
-<h4> My skills: </h4>
+<h4>Skills 🧬 </h4>
 <div>
-<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  width="35" height="35" alt="html" />
-<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"   width="35" height="35" alt="css" />
-<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"  width="35" height="35" alt="sass" />
-<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  width="30" height="28" alt="javascript" />
-<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="35" height="35" alt="react" />
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="35" height="35" alt="typescript" />
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="35" height="35" alt="wordpress" />
-<div />
-<h4> Software: </h4>
-<div>
-<img align="left" src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/github.svg"   width="25" height="25">
-<img align="left" src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/photoshop.png" width="28" height="28">
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png"  width="28" height="28" />
-<img align="left" src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/adobexd.png"  width="28" height="28">
-<img align="left" src="https://camo.githubusercontent.com/a86a8278da4c5b5a43330e1ea28e6ba050007a837128b5dff5b35d5ff0f1248a/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a365867664443566e3831415958363858766432492d674032782e706e67"  width="28" height="28" />
-  
-  </div>
+<img src="https://img.shields.io/badge/Csharp-blue?logo=csharp" />
+<img src="https://img.shields.io/badge/.NET-blue?logo=dotnet" /> 
+<br />
+<br />
+<img src="https://img.shields.io/badge/javascript-%2329292929?logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/react-%2329292929?logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/typescript-%2329292929?logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/wordpress-%2329292929?logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-%2329292929?logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-%2329292929?logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/sass-%2329292929?logo=sass&logoColor=white" />
+
+<h4>Software ☄️ </h4>
+<img src="https://img.shields.io/badge/Visual Studio-orange?logo=VisualStudio&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual Studio Code-orange?logo=VisualStudioCode&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual Studio Code-orange?logo=Poland&logoColor=white" />
+ 
+</div>
   </br>
   <div align="left">
-    <h4> Languages: <h4/>
+    <h4> Languages 🗺️ <h4/>
       <div align="left">
         <div>
         <img style="width:32px;" src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" />
@@ -45,14 +46,12 @@
           <div>
         <hr>
       </div>
-          <div >
-            <img src="https://streak-stats.demolab.com?user=h4rdPL&theme=dark&border_radius=4" style="margin-bottom: 30px;" alt="langugages-stats"/>
-  
-
-  <img src="https://github-readme-stats.vercel.app/api?username=h4rdPL&show_icons=true&theme=dark"  style="margin-bottom: 30px;" alt="matthewStats" />
-    <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4rdPL&layout=compact&theme=dark" alt="languages stats" />
-          </div>
+      <div>
+       <img src="https://streak-stats.demolab.com?user=h4rdPL&theme=dark&border_radius=4" style="margin-bottom: 30px;" alt="langugages-stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=h4rdPL&show_icons=true&theme=dark"  style="margin-bottom: 30px;" alt="matthewStats" />
+        <br />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4rdPL&layout=compact&theme=dark" alt="languages stats" />
+      </div>
   </div>
   
 
