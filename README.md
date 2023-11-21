@@ -23,7 +23,7 @@
 <h4>☄️ Software:</h4>
 <img src="https://img.shields.io/badge/Visual Studio-orange?logo=VisualStudio&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual Studio Code-orange?logo=VisualStudioCode&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual Studio Code-orange?logo=Poland&logoColor=white" />
+
  
 </div>
   </br>
