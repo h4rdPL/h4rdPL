@@ -1,8 +1,4 @@
 <h3>Hello, I'm Matthew <img align="right" src="https://media3.giphy.com/media/11fHSR7hmRLbkA/giphy.gif?cid=ecf05e47qyxcrlr2vox8w6v19uc3w4e6l0wmf8srflw7b3p6&rid=giphy.gif&ct=g" width="300" > </h3>
-<p> Here you can check my social media! </p>
-
-</br>
-</br>
 <p align="justify">
  My goal is to learn how to code with good practice, and still improving my programming skills
 </p>
