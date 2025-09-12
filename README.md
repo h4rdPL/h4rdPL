@@ -52,10 +52,6 @@
                 <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/2560px-Flag_of_Spain.svg.png" width="32" alt="Spain"/> Spanish</td>
                 <td style="text-align: center;">Basics</td>
             </tr>
-            <tr>
-                <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1920px-Flag_of_France.svg.png" width="32" alt="France"/> French</td>
-                <td style="text-align: center;">Basics</td>
-            </tr>
         </tbody>
     </table>
 </div>
