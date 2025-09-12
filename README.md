@@ -12,7 +12,6 @@
     <br />
     <br />
     <img src="https://img.shields.io/badge/javascript-%2329292929?logo=javascript&logoColor=white" />
-    <img src="https://img.shields.io/badge/react-%2329292929?logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/typescript-%2329292929?logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/wordpress-%2329292929?logo=wordpress&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML-%2329292929?logo=html5&logoColor=white" />
