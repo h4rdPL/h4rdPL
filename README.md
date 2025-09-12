@@ -7,6 +7,8 @@
 <div>
     <img src="https://img.shields.io/badge/C%23-blue?logo=csharp" />
     <img src="https://img.shields.io/badge/.NET-blue?logo=dotnet" />
+    <img src="https://img.shields.io/badge/React-blue?logo=react" />
+    <img src="https://img.shields.io/badge/React%20Native-blue?logo=react" />
     <br />
     <br />
     <img src="https://img.shields.io/badge/javascript-%2329292929?logo=javascript&logoColor=white" />
